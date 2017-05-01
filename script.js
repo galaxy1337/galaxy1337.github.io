@@ -7,7 +7,7 @@ var guys = {
 	"zero": "http://steamcommunity.com/profiles/76561198128082965",
 }
 
-var links = {
+var gang = {
 	"Steam": "http://steamcommunity.com/profiles/76561198249090462",
 	"Steam Group": "https://steamcommunity.com/groups/DRIVEBYBOYZ",
 }
