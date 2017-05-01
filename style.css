@@ -99,6 +99,7 @@ a:hover {
 
 #ascii {
 	text-align: left;
+	margin-left: 100px;
 }
  video {
     position: fixed;
