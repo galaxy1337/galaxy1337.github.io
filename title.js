@@ -16,7 +16,7 @@ function loaded(){
 
 var x = 0;
 
-var titleText = [ "C", "C$", "CH$", "CHA$", "$CHA$", "$CHA", "$CH", "$C"];
+var titleText = [ "C", "C$", "CH$", "CHA$", "$CHA$", "$CHA", "$CH", "$C", ];
 
 function loop(){
 
