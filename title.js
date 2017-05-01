@@ -1,5 +1,5 @@
 function loaded() {
-  setInterval(loop, 800)
+  setInterval(loop, 2000)
 }
 
 function loop() {
