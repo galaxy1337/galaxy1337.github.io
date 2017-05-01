@@ -1,13 +1,14 @@
 var guys = {
 	"Maestro": "http://steamcommunity.com/profiles/76561198138058643",
 	"Faz": "http://steamcommunity.com/profiles/76561198199823746",
+	"Lolzy": "http://steamcommunity.com/profiles/76561198106147426",
 	"Legacy": "http://steamcommunity.com/profiles/76561198178841609",
 	"tofi": "http://steamcommunity.com/profiles/76561198347667273",
 	"Tanya": "http://steamcommunity.com/profiles/76561198124088101",
 	"zero": "http://steamcommunity.com/profiles/76561198128082965",
 }
 
-var gang = {
+var links = {
 	"Steam": "http://steamcommunity.com/profiles/76561198249090462",
 	"Steam Group": "https://steamcommunity.com/groups/DRIVEBYBOYZ",
 }
