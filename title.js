@@ -11,4 +11,4 @@ document.addEventListener ? document.addEventListener("DOMContentLoaded", functi
   loaded()
 });
 var x = 0,
-  titleText = ["C", "CH", "CHA", "$$$", "CHA", "$$$", "CHA", "CH", "C"];
+  titleText = ["CHA", "UFF", "YAA", "$$", "CHA", "UFF", "YAA", "$$"];
