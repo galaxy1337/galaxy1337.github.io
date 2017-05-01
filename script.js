@@ -1,10 +1,11 @@
 var guys = {
-	"Youtube": "https://www.youtube.com/channel/UC4yxtiDo7Kvj7ICdlFm-jpw",
-	"Instagram": "https://www.instagram.com/leondahmen/",
+	"Maestro": "http://steamcommunity.com/profiles/76561198138058643",
+	"Faz": "http://steamcommunity.com/profiles/76561198199823746",
 }
 
 var links = {
-	"Steam": "http://steamcommunity.com/profiles/76561198315555571",
+	"Steam": "http://steamcommunity.com/profiles/76561198249090462",
+	"Steam Group": "https://steamcommunity.com/groups/DRIVEBYBOYZ",
 }
 
 var marquee = document.getElementsByClassName("js-marquee")[0];
