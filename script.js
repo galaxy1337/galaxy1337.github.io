@@ -6,6 +6,7 @@ var guys = {
 	"Tofi": "http://steamcommunity.com/profiles/76561198347667273",
 	"Tanya": "http://steamcommunity.com/profiles/76561198124088101",
 	"zero": "http://steamcommunity.com/profiles/76561198128082965",
+	"lonely": "http://steamcommunity.com/profiles/76561198330849477",
 }
 
 var links = {
